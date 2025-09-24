@@ -1,5 +1,3 @@
-# Pizza Sales (2015)
-
 ## Project Overview
 This project involves an in-depth analysis of a pizza sales dataset to uncover key trends, customer preferences, and operational insights. By examining historical sales data, I identify peak periods, popular products, and revenue drivers, providing actionable intelligence for business optimization.
 
